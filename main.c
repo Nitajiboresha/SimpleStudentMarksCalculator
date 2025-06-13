@@ -1,14 +1,4 @@
-/*
-    A program that:
-    1.  Enables the user to input the subjects they take.
-    2.  Enables the user to input the marks for each subject.
-    3.  Calculates and prints the total marks of the subjects.
-    4.  Calculates and prints the avarage as a percentage.
-    5.  Checks if the student has passed or failed.
-*/
-
 #include <stdio.h>
-//  Create functions:
 
 int main() {
     //  Create variables to enable the user to input the subjects and their marks, calculates total, and avarage:
